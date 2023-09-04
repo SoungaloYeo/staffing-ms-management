@@ -1,6 +1,5 @@
 package com.staffing;
 
-import com.staffing.StaffingMsManagementApp;
 import com.staffing.config.AsyncSyncConfiguration;
 import com.staffing.config.EmbeddedSQL;
 import java.lang.annotation.ElementType;
